@@ -1,0 +1,1 @@
+{"version":3,"sources":["dev.css"],"names":[],"mappings":"AAAA,eAAe,AAGf,IAAM,YAAY,AAAC,aAAc,AAAC,aAAc,CAAE,AAElD,eACC,iBAAmB,CACnB","sourcesContent":["@charset utf-8;\n\n    \nsvg { width:900px; height: 500px; display:block; }\n\n.gs-journalism {\n\ttext-align: center;\n}"]}
